@@ -195,7 +195,6 @@ button:hover{
 
 .achivments .item-1{
     display: grid;
-    align-self: flex-start;
 }
 
 .achivments .item-2{
@@ -319,6 +318,7 @@ button:hover{
     grid-row: 1;
     grid-column: 2;
 }
+
 
 .caring .cards .imgTwo{
     grid-row: 1;
